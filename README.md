@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on AI/ML/DL<br>I'm looking to collaborate on ML & Python projects<br>I'm currently learning new ML models 
+I'm an AI Engineer with 2.5 years of experience specializing in building intelligent and scalable AI solutions.
+🔹 I focus primarily on **Conversational AI** — designing and deploying chatbots and voice bots using LLMs, RAG pipelines, and serverless architectures.
+🔹 I have deep expertise in **AWS**, particularly with services like Amazon Lex, Lambda, Bedrock, and Kendra to develop real-time, production-grade AI systems.
+🔹 I enjoy exploring the latest in Generative AI and integrating those capabilities into real-world business applications.
+🚀 Passionate about creating impactful AI products that enhance automation, user experience, and decision-making.
 
 
 ## 🌐 Socials:
