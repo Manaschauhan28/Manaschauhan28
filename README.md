@@ -240,7 +240,7 @@ Hybrid recommendation engine combining **multimodal LLMs + RAG** for personalize
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manaschauhan28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manaschauhan28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manaschauhan28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 <br/>
@@ -254,7 +254,7 @@ Hybrid recommendation engine combining **multimodal LLMs + RAG** for personalize
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manaschauhan28&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Manaschauhan28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"/>
 </div>
 
 ---
